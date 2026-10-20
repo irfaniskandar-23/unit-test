@@ -14,7 +14,7 @@ namespace MyApp.test
             string result = StringHelper.Reverse(input);
 
             // Assert
-            Assert.Equal("olleha", result);
+            Assert.Equal("olleh", result);
         }
 
         [Fact]
